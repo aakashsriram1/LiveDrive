@@ -12,5 +12,3 @@ This project was developed as part of a team of 5 and presented at the Data Scie
 - `ImageOffensiveFormations12.csv`: Dataset for offensive formation modeling.
 - `Cropped Image Data`: Folder containing relevant image data used in the project.
 
-## Teamwork
-Collaborated in a team of 5 to complete the project and present findings at the UCSB showcase.
